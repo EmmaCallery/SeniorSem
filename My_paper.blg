@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/dev)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: My_paper.aux
+The style file: abbrv.bst
+Database file #1: My_paper.bib.bib
+Warning--entry type for "NomeN2009" isn't style-file defined
+--line 22 of file My_paper.bib.bib
+Warning--string name "october" is undefined
+--line 25 of file My_paper.bib.bib
+You've used 5 entries,
+            2118 wiz_defined-function locations,
+            535 strings with 4746 characters,
+and the built_in function-call counts, 1906 in all, are:
+= -- 201
+> -- 68
+< -- 3
++ -- 28
+- -- 22
+* -- 110
+:= -- 294
+add.period$ -- 17
+call.type$ -- 5
+change.case$ -- 25
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 86
+empty$ -- 160
+format.name$ -- 22
+if$ -- 431
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 5
+newline$ -- 27
+num.names$ -- 10
+pop$ -- 34
+preamble$ -- 1
+purify$ -- 21
+quote$ -- 0
+skip$ -- 70
+stack$ -- 0
+substring$ -- 117
+swap$ -- 30
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 18
+warning$ -- 0
+while$ -- 19
+width$ -- 6
+write$ -- 63
+(There were 2 warnings)

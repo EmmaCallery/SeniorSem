@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.13 (TeX Live 2013/dev) (format=pdflatex 2013.9.23)  16 OCT 2014 13:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.13 (TeX Live 2013/dev) (format=pdflatex 2013.9.23)  22 OCT 2014 16:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -247,33 +247,45 @@ File: listings.cfg 2007/02/22 1.4 listings configuration
 ))
 Package: listings 2007/02/22 1.4 (Carsten Heinz)
 
-(./My_paper.aux)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+LaTeX Info: Redefining \citeyear on input line 735.
+\c@NAT@ctr=\count120
+) (./My_paper.aux)
 \openout1 = `My_paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
- (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count120
+\scratchcounter=\count121
 \scratchdimen=\dimen135
 \scratchbox=\box32
-\nofMPsegments=\count121
-\nofMParguments=\count122
+\nofMPsegments=\count122
+\nofMParguments=\count123
 \everyMPshowfont=\toks38
-\MPscratchCnt=\count123
+\MPscratchCnt=\count124
 \MPscratchDim=\dimen136
-\MPnumerator=\count124
-\makeMPintoPDFobject=\count125
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
 \everyMPtoPDFconversion=\toks39
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -353,83 +365,81 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count126
-LaTeX Font Info:    Try loading font information for U+msa on input line 21.
+\c@lstlisting=\count127
+LaTeX Font Info:    Try loading font information for U+msa on input line 22.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 21.
+LaTeX Font Info:    Try loading font information for U+msb on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 21.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Underfull \hbox (badness 5316) in paragraph at lines 21--21
+Underfull \hbox (badness 5316) in paragraph at lines 22--22
 []\crnotice This work is li-censed un-der the Cre-ative Com-mons Attribution-
  []
 
-LaTeX Font Info:    Try loading font information for OMS+aer on input line 38.
-(/usr/share/texlive/texmf-dist/tex/latex/ae/omsaer.fd
-File: omsaer.fd 1999/12/27
-)
-LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+
+Overfull \hbox (7.1934pt too wide) in paragraph at lines 30--31
+\T1/aer/m/n/9 Static Types, Dy-namic Types, Pro-gram-ming Lan-guages, Java,
+ []
+
+
+Overfull \hbox (8.61128pt too wide) in paragraph at lines 33--34
+\T1/aer/m/n/9 con-ducted to try to de-ter-mine if any of the ar-gu-ments given(
+see
+ []
 
 <Static_Type_Diagram.pdf, id=1, 213.79875pt x 175.65625pt>
 File: Static_Type_Diagram.pdf Graphic file (type pdf)
 
 <use Static_Type_Diagram.pdf>
-Package pdftex.def Info: Static_Type_Diagram.pdf used on input line 46.
+Package pdftex.def Info: Static_Type_Diagram.pdf used on input line 45.
 (pdftex.def)             Requested size: 144.54pt x 118.75314pt.
-
-<Dynamic_Type_Diagram.pdf, id=2, 132.495pt x 195.73125pt>
-File: Dynamic_Type_Diagram.pdf Graphic file (type pdf)
-
-<use Dynamic_Type_Diagram.pdf>
-Package pdftex.def Info: Dynamic_Type_Diagram.pdf used on input line 61.
-(pdftex.def)             Requested size: 72.26999pt x 106.7625pt.
  [1{/usr/share/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
- <./Static_Type_Diagram.pdf> <./Dynamic_Type_Diagram.pdf
+ <./Static_Type_Diagram.pdf>]
+<Dynamic_Type_Diagram.pdf, id=34, 132.495pt x 195.73125pt>
+File: Dynamic_Type_Diagram.pdf Graphic file (type pdf)
 
-pdfTeX warning: pdflatex (file ./Dynamic_Type_Diagram.pdf): PDF inclusion: mult
-iple pdfs with page group included in a single page
->]
-Overfull \hbox (5.92023pt too wide) in paragraph at lines 82--83
+<use Dynamic_Type_Diagram.pdf>
+Package pdftex.def Info: Dynamic_Type_Diagram.pdf used on input line 63.
+(pdftex.def)             Requested size: 72.26999pt x 106.7625pt.
+
+Overfull \hbox (5.92023pt too wide) in paragraph at lines 76--77
 \T1/aer/m/n/9 used. The lan-guage used is the op-tional type lan-guage \T1/aer/
 m/it/9 Groovy\T1/aer/m/n/9 .
  []
 
-No file My_paper.bbl.
-[2
-
-] (./My_paper.aux) ) 
+(./My_paper.bbl) [2 <./Dynamic_Type_Diagram.pdf>] (./My_paper.aux) ) 
 Here is how much of TeX's memory you used:
- 4513 strings out of 495063
- 60654 string characters out of 3182194
- 130046 words of memory out of 3000000
- 7598 multiletter control sequences out of 15000+200000
+ 4917 strings out of 495063
+ 65467 string characters out of 3182194
+ 136005 words of memory out of 3000000
+ 7995 multiletter control sequences out of 15000+200000
  50665 words of font info for 67 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 41i,11n,32p,508b,1083s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
-utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on My_paper.pdf (2 pages, 154223 bytes).
+ 41i,11n,32p,1034b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share
+/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb
+8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/times/utmri8a.pfb>
+Output written on My_paper.pdf (2 pages, 169869 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 79 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,34 @@
+\begin{thebibliography}{1}
+
+\bibitem{Mayer2012}
+C.~Mayer, S.~Hanenberg, R.~Robbes, E.~Tanter, and A.~Stefik.
+\newblock An empirical study of the influence of static type systems on the
+  usability of undocumented software.
+\newblock In {\em Proceedings of the ACM International Conference on Object
+  Oriented Programming Systems Languages and Applications}, OOPSLA '12, pages
+  683--702, New York, NY, USA, 2012. ACM.
+
+\bibitem{NomeN2009}
+N.~Nome.
+\newblock What is the difference between statically typed and dynamically typed
+  languages?, 2009.
+
+\bibitem{Pierce2002}
+B.~C. Pierce.
+\newblock {\em Types and Programming Languages}.
+\newblock MIT Press, Cambridge, MA, USA, 2002.
+
+\bibitem{Souza2014}
+C.~Souza and E.~Figueiredo.
+\newblock How do programmers use optional typing?: An empirical study.
+\newblock In {\em Proceedings of the 13th International Conference on
+  Modularity}, MODULARITY '14, pages 109--120, New York, NY, USA, 2014. ACM.
+
+\bibitem{Stuchlik2011}
+A.~Stuchlik and S.~Hanenberg.
+\newblock Static vs. dynamic type systems: An empirical study about the
+  relationship between type casts and development time.
+\newblock In {\em Proceedings of the 7th Symposium on Dynamic Languages}, DLS
+  '11, pages 97--106, New York, NY, USA, 2011. ACM.
+
+\end{thebibliography}
