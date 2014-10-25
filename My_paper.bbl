@@ -1,5 +1,9 @@
 \begin{thebibliography}{1}
 
+\bibitem{Ferg2012}
+S.~Ferg.
+\newblock Static vs. dynamic typing of programming languages, 2012.
+
 \bibitem{Mayer2012}
 C.~Mayer, S.~Hanenberg, R.~Robbes, E.~Tanter, and A.~Stefik.
 \newblock An empirical study of the influence of static type systems on the
@@ -11,7 +15,7 @@ C.~Mayer, S.~Hanenberg, R.~Robbes, E.~Tanter, and A.~Stefik.
 \bibitem{NomeN2009}
 N.~Nome.
 \newblock What is the difference between statically typed and dynamically typed
-  languages?, 2009.
+  languages?, October 2009.
 
 \bibitem{Pierce2002}
 B.~C. Pierce.

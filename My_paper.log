@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.13 (TeX Live 2013/dev) (format=pdflatex 2013.9.23)  22 OCT 2014 16:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.13 (TeX Live 2013/dev) (format=pdflatex 2013.9.23)  24 OCT 2014 23:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -389,57 +389,69 @@ Overfull \hbox (7.1934pt too wide) in paragraph at lines 30--31
 \T1/aer/m/n/9 Static Types, Dy-namic Types, Pro-gram-ming Lan-guages, Java,
  []
 
-
-Overfull \hbox (8.61128pt too wide) in paragraph at lines 33--34
-\T1/aer/m/n/9 con-ducted to try to de-ter-mine if any of the ar-gu-ments given(
-see
- []
-
 <Static_Type_Diagram.pdf, id=1, 213.79875pt x 175.65625pt>
 File: Static_Type_Diagram.pdf Graphic file (type pdf)
 
 <use Static_Type_Diagram.pdf>
-Package pdftex.def Info: Static_Type_Diagram.pdf used on input line 45.
+Package pdftex.def Info: Static_Type_Diagram.pdf used on input line 57.
 (pdftex.def)             Requested size: 144.54pt x 118.75314pt.
  [1{/usr/share/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
- <./Static_Type_Diagram.pdf>]
-<Dynamic_Type_Diagram.pdf, id=34, 132.495pt x 195.73125pt>
+] <Dynamic_Type_Diagram.pdf, id=14, 132.495pt x 195.73125pt>
 File: Dynamic_Type_Diagram.pdf Graphic file (type pdf)
 
 <use Dynamic_Type_Diagram.pdf>
-Package pdftex.def Info: Dynamic_Type_Diagram.pdf used on input line 63.
+Package pdftex.def Info: Dynamic_Type_Diagram.pdf used on input line 75.
 (pdftex.def)             Requested size: 72.26999pt x 106.7625pt.
 
-Overfull \hbox (5.92023pt too wide) in paragraph at lines 76--77
+Overfull \hbox (5.92023pt too wide) in paragraph at lines 80--81
 \T1/aer/m/n/9 used. The lan-guage used is the op-tional type lan-guage \T1/aer/
 m/it/9 Groovy\T1/aer/m/n/9 .
  []
 
-(./My_paper.bbl) [2 <./Dynamic_Type_Diagram.pdf>] (./My_paper.aux) ) 
+
+Overfull \hbox (9.94286pt too wide) in paragraph at lines 91--92
+\T1/aer/m/n/9 After col-lect-ing data from all the projects Souza and Figueired
+o
+ []
+
+[2 <./Static_Type_Diagram.pdf> <./Dynamic_Type_Diagram.pdf
+
+pdfTeX warning: pdflatex (file ./Dynamic_Type_Diagram.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+>] <Influence_Paper_Results.pdf, id=47, 511.9125pt x 185.69376pt>
+File: Influence_Paper_Results.pdf Graphic file (type pdf)
+
+<use Influence_Paper_Results.pdf>
+Package pdftex.def Info: Influence_Paper_Results.pdf used on input line 120.
+(pdftex.def)             Requested size: 216.81pt x 78.64537pt.
+ [3 <./Influence_Paper_Results.pdf>]
+(./My_paper.bbl
+Underfull \vbox (badness 1033) has occurred while \output is active []
+
+) [4]
+(./My_paper.aux) ) 
 Here is how much of TeX's memory you used:
- 4917 strings out of 495063
- 65467 string characters out of 3182194
- 136005 words of memory out of 3000000
- 7995 multiletter control sequences out of 15000+200000
+ 4933 strings out of 495063
+ 65761 string characters out of 3182194
+ 138084 words of memory out of 3000000
+ 8010 multiletter control sequences out of 15000+200000
  50665 words of font info for 67 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 41i,11n,32p,1034b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share
-/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb
-8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
-s/type1/urw/times/utmri8a.pfb>
-Output written on My_paper.pdf (2 pages, 169869 bytes).
+ 41i,11n,32p,753b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
+imes/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on My_paper.pdf (4 pages, 201868 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
