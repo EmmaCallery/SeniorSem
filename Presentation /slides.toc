@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.26pt}
+\beamer@sectionintoc {1}{Static and Dynamic Types}{3}{0}{1}
+\beamer@sectionintoc {2}{How Programmers use Types}{5}{0}{2}
+\beamer@sectionintoc {3}{Influence of Static Types}{9}{0}{3}
+\beamer@sectionintoc {4}{Type Systems and Development Time}{11}{0}{4}
+\beamer@sectionintoc {5}{Conclusions}{13}{0}{5}

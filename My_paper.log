@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.13 (TeX Live 2013/dev) (format=pdflatex 2013.9.23)  24 OCT 2014 23:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.13 (TeX Live 2013/dev) (format=pdflatex 2013.9.23)  19 NOV 2014 14:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -261,18 +261,18 @@ LaTeX Info: Redefining \citeyear on input line 735.
 ) (./My_paper.aux)
 \openout1 = `My_paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -366,92 +366,164 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \c@lstlisting=\count127
-LaTeX Font Info:    Try loading font information for U+msa on input line 22.
+LaTeX Font Info:    Try loading font information for U+msa on input line 23.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 22.
+LaTeX Font Info:    Try loading font information for U+msb on input line 23.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 22.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 23.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Underfull \hbox (badness 5316) in paragraph at lines 22--22
+Underfull \hbox (badness 5316) in paragraph at lines 23--23
 []\crnotice This work is li-censed un-der the Cre-ative Com-mons Attribution-
  []
 
 
-Overfull \hbox (7.1934pt too wide) in paragraph at lines 30--31
+Overfull \hbox (7.1934pt too wide) in paragraph at lines 31--32
 \T1/aer/m/n/9 Static Types, Dy-namic Types, Pro-gram-ming Lan-guages, Java,
  []
 
-<Static_Type_Diagram.pdf, id=1, 213.79875pt x 175.65625pt>
+[1{/usr/share/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+<Static_Type_Diagram.pdf, id=12, 213.79875pt x 175.65625pt>
 File: Static_Type_Diagram.pdf Graphic file (type pdf)
 
 <use Static_Type_Diagram.pdf>
-Package pdftex.def Info: Static_Type_Diagram.pdf used on input line 57.
+Package pdftex.def Info: Static_Type_Diagram.pdf used on input line 58.
 (pdftex.def)             Requested size: 144.54pt x 118.75314pt.
- [1{/usr/share/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
+Overfull \hbox (1.82542pt too wide) in paragraph at lines 72--73
+\T1/aer/m/n/9 make dy-nam-i-cally typed pro-grams shorter and there-for faster
+ []
 
-] <Dynamic_Type_Diagram.pdf, id=14, 132.495pt x 195.73125pt>
+<Dynamic_Type_Diagram.pdf, id=13, 132.495pt x 195.73125pt>
 File: Dynamic_Type_Diagram.pdf Graphic file (type pdf)
 
 <use Dynamic_Type_Diagram.pdf>
-Package pdftex.def Info: Dynamic_Type_Diagram.pdf used on input line 75.
+Package pdftex.def Info: Dynamic_Type_Diagram.pdf used on input line 76.
 (pdftex.def)             Requested size: 72.26999pt x 106.7625pt.
 
-Overfull \hbox (5.92023pt too wide) in paragraph at lines 80--81
-\T1/aer/m/n/9 used. The lan-guage used is the op-tional type lan-guage \T1/aer/
-m/it/9 Groovy\T1/aer/m/n/9 .
+Overfull \hbox (6.9461pt too wide) in paragraph at lines 81--82
+\T1/aer/m/n/9 used. The lan-guage used is the optional-type lan-guage \T1/aer/m
+/it/9 Groovy\T1/aer/m/n/9 .
  []
 
 
-Overfull \hbox (9.94286pt too wide) in paragraph at lines 91--92
+Overfull \hbox (9.94286pt too wide) in paragraph at lines 95--96
 \T1/aer/m/n/9 After col-lect-ing data from all the projects Souza and Figueired
 o
  []
 
-[2 <./Static_Type_Diagram.pdf> <./Dynamic_Type_Diagram.pdf
+<Declaration_Visibility.pdf, id=14, 452.69125pt x 124.465pt>
+File: Declaration_Visibility.pdf Graphic file (type pdf)
+
+<use Declaration_Visibility.pdf>
+Package pdftex.def Info: Declaration_Visibility.pdf used on input line 102.
+(pdftex.def)             Requested size: 202.35622pt x 55.63649pt.
+
+<Type_Declaration_Usage.pdf, id=15, 477.785pt x 187.70125pt>
+File: Type_Declaration_Usage.pdf Graphic file (type pdf)
+
+<use Type_Declaration_Usage.pdf>
+Package pdftex.def Info: Type_Declaration_Usage.pdf used on input line 109.
+(pdftex.def)             Requested size: 202.35622pt x 79.49559pt.
+ [2 <./Static_Type_Diagram.pdf> <./Dynamic_Type_Diagram.pdf
 
 pdfTeX warning: pdflatex (file ./Dynamic_Type_Diagram.pdf): PDF inclusion: mult
 iple pdfs with page group included in a single page
->] <Influence_Paper_Results.pdf, id=47, 511.9125pt x 185.69376pt>
+>] <Programmer_background_Usage.pdf, id=49, 463.7325pt x 302.12875pt>
+File: Programmer_background_Usage.pdf Graphic file (type pdf)
+
+<use Programmer_background_Usage.pdf>
+Package pdftex.def Info: Programmer_background_Usage.pdf used on input line 136
+.
+(pdftex.def)             Requested size: 245.71754pt x 160.09059pt.
+
+Overfull \hbox (5.71754pt too wide) in paragraph at lines 136--137
+ [][] 
+ []
+
+<Mature-Projects_View.pdf, id=50, 367.3725pt x 160.6pt>
+File: Mature-Projects_View.pdf Graphic file (type pdf)
+
+<use Mature-Projects_View.pdf>
+Package pdftex.def Info: Mature-Projects_View.pdf used on input line 145.
+(pdftex.def)             Requested size: 202.35622pt x 88.46259pt.
+File: Mature-Projects_View.pdf Graphic file (type pdf)
+ <use Mature-Projects_View.pdf>
+Package pdftex.def Info: Mature-Projects_View.pdf used on input line 151.
+(pdftex.def)             Requested size: 202.35622pt x 88.46259pt.
+ [3 <./Declaration_Visibility.pdf> <./Type_Declaration_Usage.pdf
+
+pdfTeX warning: pdflatex (file ./Type_Declaration_Usage.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+> <./Programmer_background_Usage.pdf
+
+pdfTeX warning: pdflatex (file ./Programmer_background_Usage.pdf): PDF inclusio
+n: multiple pdfs with page group included in a single page
+> <./Mature-Projects_View.pdf
+
+pdfTeX warning: pdflatex (file ./Mature-Projects_View.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+>]
+Overfull \hbox (1.71548pt too wide) in paragraph at lines 186--188
+\T1/aer/m/n/9 The ini-tial-iza-tion re-quired an ini-tial-izer, which re-quired
+
+ []
+
+<Influence_Paper_Results.pdf, id=95, 514.92375pt x 158.5925pt>
 File: Influence_Paper_Results.pdf Graphic file (type pdf)
 
 <use Influence_Paper_Results.pdf>
-Package pdftex.def Info: Influence_Paper_Results.pdf used on input line 120.
-(pdftex.def)             Requested size: 216.81pt x 78.64537pt.
- [3 <./Influence_Paper_Results.pdf>]
-(./My_paper.bbl
-Underfull \vbox (badness 1033) has occurred while \output is active []
+Package pdftex.def Info: Influence_Paper_Results.pdf used on input line 205.
+(pdftex.def)             Requested size: 245.71754pt x 75.67825pt.
 
-) [4]
-(./My_paper.aux) ) 
+Overfull \hbox (5.71754pt too wide) in paragraph at lines 205--206
+ [][] 
+ []
+
+[4] [5 <./Influence_Paper_Results.pdf>]
+<Development_Time_Results.pdf, id=113, 335.2525pt x 82.3075pt>
+File: Development_Time_Results.pdf Graphic file (type pdf)
+
+<use Development_Time_Results.pdf>
+Package pdftex.def Info: Development_Time_Results.pdf used on input line 247.
+(pdftex.def)             Requested size: 245.71754pt x 60.32509pt.
+
+Overfull \hbox (5.71754pt too wide) in paragraph at lines 247--248
+ [][] 
+ []
+
+(./My_paper.bbl) [6 <./Development_Time_Results.pdf>] (./My_paper.aux) ) 
 Here is how much of TeX's memory you used:
- 4933 strings out of 495063
- 65761 string characters out of 3182194
- 138084 words of memory out of 3000000
- 8010 multiletter control sequences out of 15000+200000
+ 4964 strings out of 495063
+ 66603 string characters out of 3182194
+ 139132 words of memory out of 3000000
+ 8036 multiletter control sequences out of 15000+200000
  50665 words of font info for 67 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 41i,11n,32p,753b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
-imes/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on My_paper.pdf (4 pages, 201868 bytes).
+ 41i,11n,32p,954b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/s
+hare/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/he
+lvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8
+a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on My_paper.pdf (6 pages, 337420 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 156 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
